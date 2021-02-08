@@ -1,6 +1,12 @@
 # DH2642
 Group project for course DH2642. This app uses React, Redux, Firebase and the API Alpha vantage.
 
+project participants:
+lular@kth.se
+smalmb@kth.se
+fiegi@kth.se
+oh3@kth.se
+
 # Required setup:
 Node.js version 15.x (any subversion)
 
