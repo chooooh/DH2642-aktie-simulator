@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 .eslintcache
 
-/src/apiHandling/apiConfig
+/src/apiHandling/apiConfig.js
